@@ -9,7 +9,7 @@
 |                       | of 3 are replaced by "Fizz", multiples of 5 by "Buzz" and  |
 |                       | multiples of both with "FizzBuzz"                          |
 | **MaxProfitDays**     | Given an array of integers, returns two index values that  |
-|                       | represent the day a stock |should have been bought and     |
+|                       | represent the day a stock should have been bought and      |
 |                       | the day it should have been sold for maximum profit        |
 | **SumOfPrimeFactors** | Returns the sum of all prime factors of n                  |
 | **UniqueCharacters**  | Determines whether a string has all unique characters      |
