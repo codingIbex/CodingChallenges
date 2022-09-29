@@ -11,5 +11,8 @@
 | **MaxProfitDays**     | Given an array of integers, returns two index values that  |
 |                       | represent the day a stock should have been bought and      |
 |                       | the day it should have been sold for maximum profit        |
+| **MissingNumber**     | Returns k missing numbers in ascending order from list of  |
+|                       | numbers from 1 to n                                        |
+| **PrimeFinder**       | Returns prime numbers from 1 to n, n included              |
 | **SumOfPrimeFactors** | Returns the sum of all prime factors of n                  |
 | **UniqueCharacters**  | Determines whether a string has all unique characters      |
